@@ -1,0 +1,1 @@
+This file is my first commit and a little begineers guide of some git commands.
