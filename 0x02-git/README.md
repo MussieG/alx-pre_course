@@ -1,1 +1,1 @@
-hello.
+hello! And always stay updated.
